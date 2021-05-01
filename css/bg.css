@@ -1,0 +1,461 @@
+@media only screen and (min-width: 1600px){
+    #bg-h{
+        background-image:url('/img/header/Vector_Smart_Object.png'), url('/img/header/bg-1-h.png'), url('/img/header/bg-h.png');
+        background-repeat: no-repeat;
+        background-size: 400px, 60%, 100%;
+        background-position: 75% 70%, 50% 50%, 0px 100%;
+    }
+
+    .img-c-s {
+        width: 150px;
+    }
+    .img-c-m{
+        width: 130px
+    }
+
+    #bg-f{
+        background-image:url('/img/Features/f-bg.png');
+        background-repeat: no-repeat;
+        background-size: 600px;
+        background-position: 20% 70%;
+    }
+    #p-f{
+        position: relative;
+        left:50%;
+        width:50%;
+    }
+
+    #line-sj{
+        width: 1px;
+        height: 150px;
+        margin:auto;
+        background-color: #808080;
+    }
+
+    #bg-d{
+        background-image:url('/img/Designed_&_Built/bg-db.png');
+        background-repeat: no-repeat;
+        background-size: 600px;
+        background-position: 20% 70%;
+    }
+    #bg-uf{
+        background-image:url('/img/ultimate_features/bg-ul.png');
+        background-repeat: no-repeat;
+        background-size: 650px;
+        background-position: 80% 70%;
+    }
+    #p-d{
+        position: relative;
+        left: 55%;
+        width: 400px;
+    }
+    #bg-af{
+        background: #ffffff; /* For browsers that do not support gradients */
+        background: -webkit-linear-gradient(#ffffff, #f4f7f9); /* For Safari 5.1 to 6.0 */
+        background: -o-linear-gradient(#ffffff, #f4f7f9); /* For Opera 11.1 to 12.0 */
+        background: -moz-linear-gradient(#ffffff, #f4f7f9); /* For Firefox 3.6 to 15 */
+        background: linear-gradient(#ffffff, #f4f7f9); /* Standard syntax (must be last) */
+    }
+    #bg-mc{
+        background-image:url('/img/Meet_Client/bg-mc.png');
+        background-repeat: no-repeat;
+        background-size: 800px;
+        background-position: 15% 100%;
+    }
+    #bg-fa{
+        background-image:url('/img/Frequently_asked/bg-fa.png');
+        background-repeat: no-repeat;
+        background-size: 700px;
+        background-position: 85% 100%;
+    }
+    #carousel-w{
+        width:450px;
+    }
+    #button-p-mc{
+        position: absolute;
+        top: 50%;
+        right: 0%;
+        transform: translateY(-50%);
+    }
+}
+
+@media only screen and (min-width: 1400px) and (max-width: 1599px){
+    #bg-h{
+        background-image:url('/img/header/Vector_Smart_Object.png'), url('/img/header/bg-1-h.png'), url('/img/header/bg-h.png');
+        background-repeat: no-repeat;
+        background-size: 400px, 60%, 100%;
+        background-position: 75% 70%, 50% 50%, 0px 100%;
+    }
+
+    .img-c-s {
+        width: 150px;
+    }
+    .img-c-m{
+        width: 130px
+    }
+
+    #bg-f{
+        background-image:url('/img/Features/f-bg.png');
+        background-repeat: no-repeat;
+        background-size: 600px;
+        background-position: 20% 70%;
+    }
+    #p-f{
+        position: relative;
+        left:50%;
+        width:50%;
+    }
+
+    #line-sj{
+        width: 1px;
+        height: 150px;
+        margin:auto;
+        background-color: #808080;
+    }
+    
+    #bg-d{
+        background-image:url('/img/Designed_&_Built/bg-db.png');
+        background-repeat: no-repeat;
+        background-size: 600px;
+        background-position: 20% 70%;
+    }
+    #bg-uf{
+        background-image:url('/img/ultimate_features/bg-ul.png');
+        background-repeat: no-repeat;
+        background-size: 600px;
+        background-position: 85% 70%;
+    }
+    #p-d{
+        position: relative;
+        left: 55%;
+        width: 400px;
+    }
+    #bg-af{
+        background: #ffffff; /* For browsers that do not support gradients */
+        background: -webkit-linear-gradient(#ffffff, #f4f7f9); /* For Safari 5.1 to 6.0 */
+        background: -o-linear-gradient(#ffffff, #f4f7f9); /* For Opera 11.1 to 12.0 */
+        background: -moz-linear-gradient(#ffffff, #f4f7f9); /* For Firefox 3.6 to 15 */
+        background: linear-gradient(#ffffff, #f4f7f9); /* Standard syntax (must be last) */
+    }
+    #bg-mc{
+        background-image:url('/img/Meet_Client/bg-mc.png');
+        background-repeat: no-repeat;
+        background-size: 750px;
+        background-position: 10% 60%;
+    }
+    #bg-fa{
+        background-image:url('/img/Frequently_asked/bg-fa.png');
+        background-repeat: no-repeat;
+        background-size: 700px;
+        background-position: 85% 100%;
+    }
+    #carousel-w{
+        width:450px;
+    }
+    #button-p-mc{
+        position: absolute;
+        top: 50%;
+        right: 0%;
+        transform: translateY(-50%);
+    }
+}
+
+@media only screen and (min-width: 1200px) and (max-width: 1399px){
+    #bg-h{
+        background-image:url('/img/header/Vector_Smart_Object.png'), url('/img/header/bg-1-h.png'), url('/img/header/bg-h.png');
+        background-repeat: no-repeat;
+        background-size: 400px, 60%, 100%;
+        background-position: 75% 70%, 50% 50%, 0px 100%;
+    }
+
+    .img-c-s {
+        width: 150px;
+    }
+    .img-c-m{
+        width: 130px
+    }
+
+    #bg-f{
+        background-image:url('/img/Features/f-bg.png');
+        background-repeat: no-repeat;
+        background-size: 500px;
+        background-position: 20% 70%;
+    }
+    #p-f{
+        position: relative;
+        left:50%;
+        width:50%;
+    }
+
+    #line-sj{
+        width: 1px;
+        height: 150px;
+        margin:auto;
+        background-color: #808080;
+    }
+
+    #bg-d{
+        background-image:url('/img/Designed_&_Built/bg-db.png');
+        background-repeat: no-repeat;
+        background-size: 480px;
+        background-position: 15% 50%;
+    }
+    #p-d{
+        position: relative;
+        left: 55%;
+        width: 400px;
+    }
+
+    #bg-uf{
+        background-image:url('/img/ultimate_features/bg-ul.png');
+        background-repeat: no-repeat;
+        background-size: 550px;
+        background-position: 90% 70%;
+    }
+
+    #bg-af{
+        background: #ffffff; /* For browsers that do not support gradients */
+        background: -webkit-linear-gradient(#ffffff, #f4f7f9); /* For Safari 5.1 to 6.0 */
+        background: -o-linear-gradient(#ffffff, #f4f7f9); /* For Opera 11.1 to 12.0 */
+        background: -moz-linear-gradient(#ffffff, #f4f7f9); /* For Firefox 3.6 to 15 */
+        background: linear-gradient(#ffffff, #f4f7f9); /* Standard syntax (must be last) */
+    }
+
+    #bg-mc{
+        background-image:url('/img/Meet_Client/bg-mc.png');
+        background-repeat: no-repeat;
+        background-size: 600px;
+        background-position: 10% 60%;
+    }
+    #bg-fa{
+        background-image:url('/img/Frequently_asked/bg-fa.png');
+        background-repeat: no-repeat;
+        background-size: 700px;
+        background-position:85% 100%;
+    }
+    #carousel-w{
+        width:400px;
+    }
+    #button-p-mc{
+        position: absolute;
+        top: 50%;
+        right: 0%;
+        transform: translateY(-50%);
+    }
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1199px){
+    .text-lg-c{
+        text-align: center;
+    }
+
+    #bg-h{
+        background-image:url('/img/header/Vector_Smart_Object.png'), url('/img/header/bg-1-h.png'), url('/img/header/bg-h.png');
+        background-repeat: no-repeat;
+        background-size: 300px, 60%, 100%;
+        background-position: 85% 50%, 50% 50%, 0px 100%;
+    }
+
+    .img-c-s {
+        width: 150px;
+    }
+    .img-c-m{
+        width: 130px
+    }
+    #bg-f{
+        background-image:url('/img/Features/f-bg.png');
+        background-repeat: no-repeat;
+        background-size: 480px;
+        background-position: 15% 70%;
+    }
+    #p-f{
+        position: relative;
+        left:50%;
+        width:50%;
+    }
+
+    #line-sj{
+        width: 1px;
+        height: 150px;
+        margin:auto;
+        background-color: #808080;
+    }
+    #bg-d{
+        background-image:url('/img/Designed_&_Built/bg-db.png');
+        background-repeat: no-repeat;
+        background-size: 400px;
+        background-position: 15% 50%;
+    }
+    #p-d{
+        position: relative;
+        left: 55%;
+        width: 400px;
+    }
+
+    #bg-uf{
+        background-image:url('/img/ultimate_features/bg-ul.png');
+        background-repeat: no-repeat;
+        background-size: 500px;
+        background-position: 100% 60%;
+    }
+    
+    #bg-af{
+        background: #ffffff; /* For browsers that do not support gradients */
+        background: -webkit-linear-gradient(#ffffff, #f4f7f9); /* For Safari 5.1 to 6.0 */
+        background: -o-linear-gradient(#ffffff, #f4f7f9); /* For Opera 11.1 to 12.0 */
+        background: -moz-linear-gradient(#ffffff, #f4f7f9); /* For Firefox 3.6 to 15 */
+        background: linear-gradient(#ffffff, #f4f7f9); /* Standard syntax (must be last) */
+    }
+    #bg-mc{
+        background-image:url('/img/Meet_Client/bg-mc.png');
+        background-repeat: no-repeat;
+        background-size: 600px;
+        background-position: 1% 60%;
+    }
+    #carousel-w{
+        width:300px;
+    }
+    #button-p-mc{
+        position: absolute;
+        top: 50%;
+        right: 0%;
+        transform: translateY(-50%);
+    }
+    #bg-fa{
+        background-image:url('/img/Frequently_asked/bg-fa.png');
+        background-repeat: no-repeat;
+        background-size: 600px;
+        background-position: 110% 100%;
+    }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px){
+    #bg-h{
+        background-image: url('/img/header/bg-1-h.png'), url('/img/header/bg-h.png');
+        background-repeat: no-repeat;
+        background-size: 80%, 100%;
+        background-position: 50% 50%, 0px 100%;
+    }
+    .img-c-s {
+        width: 150px;
+    }
+    .img-c-m{
+        width: 130px
+    }
+    .text-md-c{
+        text-align: center;
+    }
+    
+    #bg-f{
+        background-image:url('/img/Features/f-bg-b.png');
+        background-repeat: no-repeat;
+        background-size: 600px;
+        background-position: 40% 80%;
+    }
+
+    #bg-d{
+        background-image:url('/img/Designed_&_Built/bg-db-b.png');
+        background-repeat: no-repeat;
+        background-size: 480px;
+        background-position: 50% 50%;
+    }
+
+    #bg-uf{
+        background-image:url('/img/ultimate_features/bg-ul-b.png');
+        background-repeat: no-repeat;
+        background-size: 600px;
+        background-position: 50% 60%;
+    }
+
+    #bg-af{
+        background: #ffffff; /* For browsers that do not support gradients */
+        background: -webkit-linear-gradient(#ffffff, #f4f7f9); /* For Safari 5.1 to 6.0 */
+        background: -o-linear-gradient(#ffffff, #f4f7f9); /* For Opera 11.1 to 12.0 */
+        background: -moz-linear-gradient(#ffffff, #f4f7f9); /* For Firefox 3.6 to 15 */
+        background: linear-gradient(#ffffff, #f4f7f9); /* Standard syntax (must be last) */
+    }
+
+    #bg-mc{
+        background-image:url('/img/Meet_Client/bg-mc-b.png');
+        background-repeat: no-repeat;
+        background-size: 700px;
+        background-position: 50% 60%;
+    }
+    #carousel-w{
+        width:500px;
+    }
+    #button-p-mc{
+        position: absolute;
+        top: 50%;
+        right: 0%;
+        transform: translateY(-50%);
+    }
+    #bg-fa{
+        background-image:url('/img/Frequently_asked/bg-fa.png');
+        background-repeat: no-repeat;
+        background-size: 600px;
+        background-position: 110% 100%;
+    }
+}
+
+@media only screen and (min-width: 0px) and (max-width: 767px){
+    .text-xs-c{
+        text-align: center;
+    }
+
+    #bg-h{
+        background-image: url('/img/header/bg-1-h.png'), url('/img/header/bg-h.png');
+        background-repeat: no-repeat;
+        background-size: 80%, 100%;
+        background-position: 50% 50%, 0px 100%;
+    }
+    .img-c-s {
+        width: 150px;
+    }
+    .img-c-m{
+        width: 130px
+    }
+    
+    #bg-f{
+        background-image:url('/img/Features/f-bg-b.png');
+        background-repeat: no-repeat;
+        background-size: 600px;
+        background-position: 40% 80%;
+    }
+
+    #bg-d{
+        background-image:url('/img/Designed_&_Built/bg-db-b.png');
+        background-repeat: no-repeat;
+        background-size: 480px;
+        background-position: 50% 50%;
+    }
+
+    #bg-uf{
+        background-image:url('/img/ultimate_features/bg-ul-b.png');
+        background-repeat: no-repeat;
+        background-size: 800px;
+        background-position: 50% 50%;
+    }
+
+    #bg-af{
+        background: #ffffff; /* For browsers that do not support gradients */
+        background: -webkit-linear-gradient(#ffffff, #ededed); /* For Safari 5.1 to 6.0 */
+        background: -o-linear-gradient(#ffffff, #ededed); /* For Opera 11.1 to 12.0 */
+        background: -moz-linear-gradient(#ffffff, #ededed); /* For Firefox 3.6 to 15 */
+        background: linear-gradient(#ffffff, #ededed); /* Standard syntax (must be last) */
+    }
+
+    #bg-mc{
+        background-image:url('/img/Meet_Client/bg-mc-b.png');
+        background-repeat: no-repeat;
+        background-size: 700px;
+        background-position: 50% 60%;
+    }
+    #bg-fa{
+        background-image:url('/img/Frequently_asked/bg-fa-b.png');
+        background-repeat: no-repeat;
+        background-size: 600px;
+        background-position: 110% 100%;
+    }
+
+}

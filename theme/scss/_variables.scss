@@ -1,0 +1,99 @@
+//สี theme
+$theme-colors: (
+  "blue":       #2500f9,
+  "gold":       #fcae61,
+  "darkblue":   #242f51,
+  "pink":       #f55767,
+  "green":      #40975f,
+  "lightblue":  #2563ff,
+  "gray":       #e9ecef,
+  "very-darkblue":#09142e,
+  "footer":       #ffffff38,
+);
+
+//ระยะห่าง padding margin
+$spacer: 1rem !default;
+$spacers: () !default;
+$spacers: map-merge(
+  (
+    0: 0,
+    1: ($spacer * .25),
+    2: ($spacer * .5),
+    3: $spacer,
+    4: ($spacer * 1.5),
+    5: ($spacer * 3),
+    6: ($spacer * 5),
+    7: ($spacer * 7),
+    8: ($spacer * 8),
+    9: ($spacer * 9),
+    10: ($spacer * 10),
+    11: ($spacer * 11),
+    12: ($spacer * 12),
+    13: ($spacer * 13),
+    14: ($spacer * 14),
+    15: ($spacer * 15),
+    16: ($spacer * 16),
+    17: ($spacer * 17),
+    18: ($spacer * 18),
+    19: ($spacer * 19),
+    20: ($spacer * 20),
+    21: ($spacer * 21),
+    22: ($spacer * 22),
+    23: ($spacer * 23),
+    24: ($spacer * 24),
+    25: ($spacer * 25),
+    26: ($spacer * 26),
+    27: ($spacer * 27),
+    28: ($spacer * 28),
+    29: ($spacer * 29),
+    30: ($spacer * 30),
+    31: ($spacer * 31),
+    32: ($spacer * 32),
+    33: ($spacer * 33),
+    34: ($spacer * 34),
+    35: ($spacer * 35),
+    36: ($spacer * 36),
+    37: ($spacer * 37),
+    38: ($spacer * 38),
+    39: ($spacer * 39),
+    40: ($spacer * 40),
+    41: ($spacer * 41),
+    42: ($spacer * 42),
+    43: ($spacer * 43),
+    44: ($spacer * 44),
+    45: ($spacer * 45),
+    46: ($spacer * 46),
+    47: ($spacer * 47),
+    48: ($spacer * 48),
+    49: ($spacer * 49),
+    50: ($spacer * 50),
+    51: ($spacer * 51),
+    52: ($spacer * 52),
+    53: ($spacer * 53),
+    54: ($spacer * 54),
+    55: ($spacer * 55),
+    56: ($spacer * 56),
+    57: ($spacer * 57),
+    58: ($spacer * 58),
+    59: ($spacer * 59),
+    60: ($spacer * 60),
+  ),
+  $spacers
+);
+
+//front
+@import 'https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap';
+
+.font-Roboto {
+    font-family: 'Roboto', sans-serif;
+}
+
+$grid-breakpoints: (
+  xs: 0,
+  sm: 576px,
+  md: 768px,
+  lg: 992px,
+  xl: 1200px,
+  xxl: 1400px,
+  xxxl: 1600px
+);

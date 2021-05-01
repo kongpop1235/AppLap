@@ -1,0 +1,190 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.fw-1{
+    font-weight:800;
+}
+
+#nav-button{
+    height: 56px;
+    width: 170px;
+}
+
+#nav-menu{
+    font-weight:500;
+}
+
+.clrcle{
+    height: 30px;
+    width: 30px;
+    background-color: #ffbf58;
+    border-radius: 50%;
+}
+
+#text-x{
+    height: 30px;
+    width: 280px;
+    background-color: rgb(231, 231, 231);
+}
+
+.di{
+    display: inline;
+    
+}
+
+.dib{
+    display: inline-block;
+}
+
+.w-650{
+    width: 650px;
+    display: inline-block;
+}
+
+.w-400{
+    width: 400px;
+    display: inline-block;
+}
+
+.w-300{
+    width: 350px;
+    display: inline-block;
+}
+
+.w-260{
+    width: 260px;
+    display: inline-block;
+}
+
+#bg-h a{
+    color:#242f51;
+}
+
+#bg-h a:hover{
+    color:#fcae61;
+}
+
+a{
+    transition: all 0.3s;
+    color:lightcyan;
+}
+
+a:hover{
+    transition: all 0.3s;
+    color: #fcae61;
+    text-decoration: none;
+}
+
+.svg-footer{
+    transition: all 1s;
+    fill:rgba(255, 255, 255, 0.250);
+}
+
+.svg-footer:hover{
+    transition: all 0.3s;
+    fill: #ffff;
+    transform:rotate(-30deg);
+}
+/*--------------------------------------------ขนาด font--------------------------------------------*/
+@media only screen and (min-width: 1600px){
+    .fs-xxxl-50{
+        font-size:50px;
+    }
+    .fs-xxxl-30{
+        font-size:30px;
+    }
+}
+
+@media only screen and (min-width: 1400px){
+    .fs-xxl-50{
+        font-size:50px;
+    }
+    .fs-xxl-30{
+        font-size:30px;
+    }
+}
+
+@media only screen and (min-width: 1200px){
+    .fs-xl-50{
+        font-size:50px;
+    }
+    .fs-xl-30{
+        font-size:30px;
+    }
+}
+
+@media only screen and (min-width: 992px){
+    .fs-lg-50{
+        font-size:50px;
+    }
+    .fs-lg-30{
+        font-size:30px;
+    }
+}
+
+@media only screen and (min-width: 768px){
+    .fs-md-50{
+        font-size:50px;
+    }
+    .fs-md-30{
+        font-size:30px;
+    }
+}
+
+@media only screen and (min-width: 576px){
+    .fs-sm-50{
+        font-size:50px;
+    }
+    .fs-sm-30{
+        font-size:30px;
+    }
+}
+
+@media only screen and (max-width:768px) {
+    .desktop-br {display: none;}
+    .mobile-br {display: inline;}
+}
+@media only screen and (min-width:769px) {
+	.desktop-br {display: inline;}
+    .mobile-br {display: none;}
+}
+
+.fs-50{
+    font-size:50px;
+}
+
+.fs-30{
+    font-size:30px;
+}
+
+@media only screen and (min-width: 1400px){
+    .navbar{
+        height: 150px;
+        transition: all 0.2s ease-out;
+        width: 100%;
+    }
+    .nav-scroll{
+        height: 70px;
+        -webkit-backdrop-filter: blur(10px);
+        backdrop-filter: blur(10px);
+        background-color: rgba(228, 228, 228, 0.7);
+    }
+}
+
+@media only screen and (max-width: 1399px){
+    .navbar-mobile{
+        height: 70px;
+        width: 100%;
+        background-color: rgb(255, 255, 255);
+    }
+    .navbar-bg-mobile{
+        width: 100%;
+        background-color: rgb(223, 223, 223);
+        backdrop-filter: blur(5px);
+        background-color: rgba(228, 228, 228, 0.7);
+    }
+
+}

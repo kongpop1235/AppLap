@@ -1,0 +1,46 @@
+:root {
+    --color-white: #fff;
+  }
+
+  
+  .btn1 {
+    display: flex;
+    background: var(--color-white);
+    border: 1px solid #dddddd;
+    font-size: 14px;
+    line-height: 1.25rem;
+    font-weight: 500;
+    cursor: pointer;
+  }
+  .btn:focus {
+    outline: none;
+  }
+  
+  .btn--toggle {
+    position: relative;
+    padding: 2px;
+    border-radius: 50px;
+    overflow: hidden;
+    letter-spacing: 0.5px;
+    color: #1a1a1a8c;
+  }
+  .btn--toggle .toggle-elm {
+    padding: 8px 12px;
+    position: relative;
+    z-index: 1;
+  }
+  .btn--toggle .toggle-active {
+    color: var(--color-white);
+  }
+  
+  .toggling-layer {
+    position: absolute;
+    left: 0;
+    top: 2px;
+    z-index: 0;
+    height: 100%;
+    width: 50%;
+    background: #2500f9;
+    border-radius: 50px;
+    transition: 0.3s;
+  }
