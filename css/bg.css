@@ -1,6 +1,6 @@
 @media only screen and (min-width: 1600px){
     #bg-h{
-        background-image:url('/img/header/Vector_Smart_Object.png'), url('/img/header/bg-1-h.png'), url('/img/header/bg-h.png');
+        background-image:url('img/header/Vector_Smart_Object.png'), url('img/header/bg-1-h.png'), url('img/header/bg-h.png');
         background-repeat: no-repeat;
         background-size: 400px, 60%, 100%;
         background-position: 75% 70%, 50% 50%, 0px 100%;
